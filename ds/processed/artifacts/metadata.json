@@ -1,0 +1,23 @@
+{
+  "best_model": "LogisticRegression",
+  "results": {
+    "LogisticRegression": {
+      "accuracy": 0.8851220038868495,
+      "f1_macro": 0.8771657026666287
+    },
+    "RandomForest": {
+      "accuracy": 0.8523716979773986,
+      "f1_macro": 0.8327135988555405
+    },
+    "XGBoost": {
+      "accuracy": 0.8686388828906644,
+      "f1_macro": 0.8602786386752487
+    }
+  },
+  "label_classes": [
+    "Consumer Loan",
+    "Credit reporting, credit repair services, or other personal consumer reports",
+    "Debt collection",
+    "Mortgage"
+  ]
+}
